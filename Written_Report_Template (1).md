@@ -17,16 +17,16 @@ The challenges faced in the launch date pivot table was organizing the pivot tab
 The biggest challanges I faced in the outcomes by goals was first pulling the count ifs data from the kickstarter data and making sure that it is accurate. I was able to double check by adding filters to the original data to see if the numbers matched up. Afterwards it was a matter of organizing the formula correctly based off what the goal was. 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- *What are two conclusions you can draw about the Outcomes based on Launch Date?
 - I can conclude that fundraising that were started during the summer months had the most success while December held a low success rate. 
 
-- What can you conclude about the Outcomes based on Goals?
+- *What can you conclude about the Outcomes based on Goals?
 - My conclusion based off what I can see in the data set is that it is more successful to keep your goal under 50000 as it is almost certain to fail passed that point.
 
-- What are some limitations of this dataset?
+- *What are some limitations of this dataset?
 - In the launch date data you are not comparing based off the total number or looking at the percentages so you can have higher numbers, but this could also relate to a higher number of programs started at that time. The same can be said for the low points in the dataset. 
 - In the out come based by goals I would say that sample size of goals is handicapped with a majority of the data labeled over 50000 and we cannot see what is happening in that area as it is all compliled together. You do have the benefit of the percentages better than the launch dates. The data is overall top and bottom heavy with little counted out in the middle of the compiled data.
 
-- What are some other possible tables and/or graphs that we could create?
+- *What are some other possible tables and/or graphs that we could create?
 - Since we are doing a comparison it would be valuable to orgainze the data into column charts or even a table with embedded charts. 
 - Even a pie chart can be used to look at the percentages of outcomes based off goals.
