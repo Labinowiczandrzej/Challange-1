@@ -9,10 +9,51 @@ To compare how the other plays performed based on when they were launched and wh
 
 ### Analysis of Outcomes Based on Launch Date
 Looking over the grand totals of data you can tell that there is no real correlation with the time of year and when programs were launched. As you seperate the data you can see a spike in successful programs starting in May. Afterwards you see a consistent decline until September with a small resurge until a strong drop off in December. When looking at failed there is a high number in the beginning of the year, but afterwards the data shows an almost flat change overall with a small drop in the later part of the year. With canceled projects there isn't much vaiance. The number stays consistant throughout the year. This is all compliled from all the parent categories and not filtered down to just plays. 
+Years	(All)			
+Parent Category	theater			
+				
+Count of outcomes	Column Labels			
+Row Labels	successful	failed	canceled	Grand Total
+Jan	56	33	7	96
+Feb	71	39	3	113
+Mar	56	33	3	92
+Apr	71	40	2	113
+May	111	52	3	166
+Jun	100	49	4	153
+Jul	87	50	1	138
+Aug	72	47	4	123
+Sep	59	34	4	97
+Oct	65	50		115
+Nov	54	31	3	88
+Dec	37	35	3	75
+Grand Total	839	493	37	1369
+![image](https://user-images.githubusercontent.com/101608100/160306753-35fff866-5735-41af-a33d-8b61a7fc2210.png)
 
-### Analysis of Outcomes Based on Goals
+[Theater outcomes by launch dates 3](https://user-images.githubusercontent.com/101608100/160306723-7ee2e99b-c50b-40bc-b109-539686870aed.png)
+### Analysis of Outcomes Based on Goals!
 Looking at the goals based off $5000 dollar intervals we seperate the data into consumable pieces and specifically looking at the plays. The biggest thing that comes out looking at the data is that there were no canceled plays regardless of goals. It also quite apparent that as the goal grows larger that there are less plays and there is an outlier when looking at the goal greater than 50000. The final goal category has a large number of plays and also has a small number of successful outcomes. As a matter of fact it has the highest number of failed outcomes. 
-### Challenges and Difficulties Encountered
+Years	(All)			
+Parent Category	theater			
+				
+Count of outcomes	Column Labels			
+Row Labels	successful	failed	canceled	Grand Total
+Jan	56	33	7	96
+Feb	71	39	3	113
+Mar	56	33	3	92
+Apr	71	40	2	113
+May	111	52	3	166
+Jun	100	49	4	153
+Jul	87	50	1	138
+Aug	72	47	4	123
+Sep	59	34	4	97
+Oct	65	50		115
+Nov	54	31	3	88
+Dec	37	35	3	75
+Grand Total	839	493	37	1369
+![image](https://user-images.githubusercontent.com/101608100/160306776-48465193-c252-4c86-b0d9-edc3cad1ff6f.png)
+
+[OutcomesvsGoals resized](https://user-images.githubusercontent.com/101608100/160306712-4264aa2e-171e-4b33-842f-b84375bed0ea.png)
+### Challenges and Difficulties Encountered!
 The challenges faced in the launch date pivot table was organizing the pivot table with the appropriate filters. As well as removing the quarters seperation of data from the table. The Dates had to be convereted from the original given data so that it can be analyzed based of months and years. 
 The biggest challanges I faced in the outcomes by goals was first pulling the count ifs data from the kickstarter data and making sure that it is accurate. I was able to double check by adding filters to the original data to see if the numbers matched up. Afterwards it was a matter of organizing the formula correctly based off what the goal was. 
 ## Results
